@@ -1,0 +1,16 @@
+{
+    "name": "akgngr/curlexample",
+    "description": "Curl example applications",
+    "type": "project",
+    "require": {
+        "php-curl-class/php-curl-class": "dev-master"
+    },
+    "license": "free",
+    "authors": [
+        {
+            "name": "Abdulkadir Gungor",
+            "email": "abdlkdrgngr@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}

@@ -1,0 +1,229 @@
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE10" />
+	<meta http-equiv='cache-control' content="no-cache" />
+	<meta http-equiv='expires' content="0" />
+	<meta http-equiv='pragma' content="no-cache" />
+	<title>T.C. Sosyal Güvenlik Kurumu</title>
+	<link href="/EBildirgeV2/style/main.css" rel="stylesheet" type="text/css" />
+	<link href="/EBildirgeV2/style/benimCss.v4.4.css" rel="stylesheet" type="text/css" />
+	<link href="/EBildirgeV2/style/datepicker/datepicker.css" rel="stylesheet" type="text/css" />
+	<script src="/EBildirgeV2/scripts/jquery.min.js" type="text/javascript"></script>
+	<script src="/EBildirgeV2/scripts/sgk_main.js" type="text/javascript"></script>
+	<script src="/EBildirgeV2/scripts/core.js" type="text/javascript"></script>
+	<script src="/EBildirgeV2/scripts/benimScripts.v2.js" type="text/javascript"></script>
+	<script src="/EBildirgeV2/scripts/datepicker/datapicker.js" type="text/javascript"></script>
+	<script src="/EBildirgeV2/scripts/datepicker/locale.datepicker-tr.js" type="text/javascript"></script>
+	<script type="text/javascript">
+	$(function() {
+		noBack();
+	});
+	function noBack(){
+		try {
+			window.history.pushState( {} , '', '/EBildirgeV2' );
+		} catch (e) {}
+	}
+	</script>
+	
+</head>
+<body style="overflow: hidden;">
+	<div style="display: block;" id="fade" class="black_overlay"></div>
+	<div style="display: block;" id="light" class="white_content">
+		<a style="font-family: Arial; font-size: 19px; color: #4f4f4f;">İşlem Devam Ediyor Lütfen Bekleyiniz!</a> <br /> <img style="padding-left: 30px; margin: 0px; background-color: transparent; border: none;" src="/EBildirgeV2/images/content/loading.gif" alt="Loading..." />
+	</div>
+	<div id="wrapperLogin">
+		<table width="100%" style="height:inherit;">
+			<tr style="height:104px;">
+				<td>
+					<div id="header">
+						<h1 id="logo" title="T.C. Sosyal Güvenlik Kurumu">T.C. SOSYAL GÜVENLİK KURUMU</h1>
+					</div>
+				</td>
+			</tr>
+			<tr style="height:inherit;">
+				<td height="inherit" valign="top">
+					<div id="subPageContent" style="height: inherit;">
+						<div id="mainNavContainer">
+							<ul id="navigation" class="horizontalMenu">
+								<li><a href="http://www.sgk.gov.tr" title="Kurumsal" class="mainNavLink">SGK ANA SAYFA</a></li>
+								
+									
+									
+										<li><a href="/EBildirgeV2/anasayfa.action" class="mainNavLink">ANA SAYFA</a></li>
+									
+									
+									<li style="float: right;"><a href='/EBildirgeV2/logout.jsp' title="Sistemden Çıkış" class="mainNavLink">ÇIKIŞ</a></li>
+									<!-- <li style="float: right;"><a href="/EBildirgeV2/yardim.action" class="mainNavLink" title="Yardım">YARDIM</a></li> -->
+									<li style="float: right;"><a href="javascript:void(0);" title="Kullanıcı Bilgileri" class="mainNavLink" onclick="return kullaniciBilgileriGoster()">NİHAT AKBIYIK</a></li>
+									
+								
+							</ul>
+						</div>
+						<div id="contentContainer" class="contentContainer" style="padding: 1px 16px;">
+							<div style="width:100.95%;min-height:inherit;max-height:inherit;height:inherit;overflow:auto">
+								<table width="100%" cellpadding="0" cellspacing="0" style="height: inherit">
+									<!-- burasi -->
+									<tr align="center" valign="top" style="height: 1px;">
+										<td width="inherit">
+
+
+
+	<!--[if IE]>
+		<style> 
+			.ieBilgiTr {height:75%;vertical-align: top;}
+		</style> 
+	<![endif]-->
+	<table cellpadding="0" cellspacing="0" height="22%">
+		<tr valign="top">
+			<td valign="bottom" align="right" width="11"><img height="22" src="/EBildirgeV2/images/content/Border_TopLeft.gif" width="11" align="middle" border="0" alt="sol_resim" /></td>
+			<td class="hfont1" height="22" valign="middle" align="left" width="100%" background="/EBildirgeV2/images/content/Border_Top_Bg.gif">
+				<center>
+					Özel&nbsp;İşyeri 
+				</center>
+			</td>
+			<td valign="bottom" align="right" width="11"><img src="/EBildirgeV2/images/content/Border_TopRight.gif" width="11" align="middle" height="22" border="0"></td>
+		</tr>
+		<tr height="100%" valign="middle" align="left">
+			<td align="right" width="11" background="/EBildirgeV2/images/content/Border_Left.gif">&nbsp;</td>
+			<td valign="top">
+				<table width="100%" border="0" cellspacing="3" cellpadding="0" align="center">
+					<tr valign="top">
+						<td width="135" class="p10BoldBlue">Sicil No</td>
+						<td width="5" class="p10BoldBlue">:</td>
+						<td class="p10"  colspan="4">2 4941 01 01 1005724 063 01-63 000 001</td>
+					</tr>
+					<tr valign="top">
+						<td width="135" class="p10BoldBlue">Ünvan</td>
+						<td width="5" class="p10BoldBlue">:</td>
+						<td class="p10" colspan="4">AKFET ULUSLARARASI NAK.PET.SAN.TİC.LTD.ŞTİ.</td>
+					</tr>
+					
+					<tr valign="top">
+						<td width="135" class="p10BoldBlue">Adresi</td>
+						<td width="5" class="p10BoldBlue">:</td>
+						<td class="p10" colspan="4">PAŞABAĞI MAH.766.SOK.Y&Uuml;NC&Uuml; APT.GİRİŞ KAT Dış kapı no:3/B İ&ccedil; kapı no:0 - URFA MERKEZ</td>
+					</tr>
+					<tr valign="top">
+						<td width="135" class="p10BoldBlue">SGM kod-Ad</td>
+						<td width="5" class="p10BoldBlue">:</td>
+						<td class="p10" colspan="4">01-SGK ŞANLIURFA SOSYAL G&Uuml;V.İL M&Uuml;D&Uuml;RL&Uuml;Ğ&Uuml;   </td>
+					</tr>
+					<tr valign="top">
+						<td width="150" class="p10BoldBlue">Kanun Kapsamına Alınış</td>
+						<td width="5" class="p10BoldBlue">:</td>
+						<td class="p10">03/10/2003</td>
+					</tr>
+					<tr valign="top">
+						<td width="150" class="p10BoldBlue">Kanun Kapsamından Çıkış</td>
+						<td width="5" class="p10BoldBlue">:</td>
+						<td class="p10"></td>
+						<td width="150" class="p10BoldBlue">İz İşlem Tarih</td>
+						<td width="5" class="p10BoldBlue">:</td>
+						<td class="p10"></td>
+					</tr>
+					<tr valign="top">
+						<td width="150" class="p10BoldBlue">Prim Oran</td>
+						<td width="5" class="p10BoldBlue">:</td>
+						<td class="p10">2.00</td>
+						<td width="150" class="p10BoldBlue">Eski Prim Oran</td>
+						<td width="5" class="p10BoldBlue">:</td>
+						<td class="p10">2.50</td>
+					</tr>
+				</table>
+			</td>
+			<td align="left" width="11" background="/EBildirgeV2/images/content/Border_Right.gif"></td>
+		</tr>
+		<tr valign="bottom" height="9">
+			<td valign="top" align="right" width="11"><img src="/EBildirgeV2/images/content/Border_BottomLeft.gif" border="0"></td>
+			<td background="/EBildirgeV2/images/content/Border_Bottom.gif"></td>
+			<td valign="top" align="left" width="11"><img src="/EBildirgeV2/images/content/Border_BottomRight.gif" border=0></td>
+		</tr>
+	</table>
+</td>
+									</tr>
+									<tr align="left" valign="top">
+										<td width="inherit" style="padding-top: 1px;">
+
+
+
+	
+
+
+
+
+	
+	
+		
+		
+			
+		
+		
+		
+			
+		
+	
+
+
+
+
+
+
+<table style="vertical-align: top; height: auto;" cellpadding="0" cellspacing="0" width="100%" align="center">
+	<tr valign="top">
+		<td valign="bottom" align="right" width="11"><img height="22" src="/EBildirgeV2/images/content/Border_TopLeft.gif" width="11" align="middle" border="0" alt="sol_resim" class="ieDuzeltUst" /></td>
+		<td class="hfont1" height="22" valign="middle" align="left" width="100%" background="/EBildirgeV2/images/content/Border_Top_Bg.gif">
+			<center>
+				Sistem Hatası
+			</center>
+		</td>
+		<td valign="bottom" align="right" width="11"><img src="/EBildirgeV2/images/content/Border_TopRight.gif" width="11" align="middle" height="22" border="0" class="ieDuzeltUst"></td>
+	</tr>
+	<tr valign="middle">
+		<td align="right" width="11" background="/EBildirgeV2/images/content/Border_Left.gif">&nbsp;</td>
+		<td valign="top" height="100%">
+			<div style="overflow: hidden; height: auto; margin-top: 2px;">
+				
+				<center style="color:red; margin: 2px;"></center>
+				
+
+<h1 align="center" style="font-size: large;margin-top: 10px;">Sistemsel bir sorun ile karşılaşıldı. Lütfen işleminizi yeniden deneyiniz.</h1>
+<h2 align="center" style="font-size: medium;margin-top: 5px;">Hata referans numarası : 3bE4ytkufNZ4dYiwMav998d</h2>
+<h2 align="center" style="font-size: small;;margin-top: 5px;margin-bottom:  20px;">Bildirim zamanı : 30.10.2019 15:24:25</h2>
+			</div>
+		</td>
+		<td align="left" width="11" background="/EBildirgeV2/images/content/Border_Right.gif"></td>
+	</tr>
+	<tr valign="bottom" height="9">
+		<td valign="top" align="right" width="11"><img src="/EBildirgeV2/images/content/Border_BottomLeft.gif" border="0" class="ieDuzeltAlt"></td>
+		<td background="/EBildirgeV2/images/content/Border_Bottom.gif"></td>
+		<td valign="top" align="left" width="11"><img src="/EBildirgeV2/images/content/Border_BottomRight.gif" border=0 class="ieDuzeltAlt"></td>
+	</tr>
+</table></td>
+									</tr>
+								</table>
+							</div>
+						</div>
+					</div>
+				</td>
+			</tr>
+			<tr style="height: 34px;">
+				<td>
+					<div id="footer">
+						<div class="left">Türkiye Cumhuriyeti Sosyal Güvenlik Kurumu © 2012</div>
+						<div class="right">
+							<ul class="horizontal">
+								<li><a href="http://www.sgk.gov.tr/wps/portal/tr/e_sgk/diger_uygulamalar/bize_ulasin/" title="İletişim">İletişim</a></li>
+							</ul>
+						</div>
+					</div>
+				</td>
+			</tr>
+		</table>
+	</div>
+</body>
+</html>
